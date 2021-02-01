@@ -1,7 +1,9 @@
 # factorio
 Backing up my factorio blueprints.
 
-Previews:
+You will find that many of them are inspired by Nilaus' Factorio Masterclass series: https://www.youtube.com/playlist?list=PLV3rF--heRVu2xlDGZiRbdb7nbwzM9Vyz
+
+## Previews
 
 https://fbe.teoxoy.com/?source=https://github.com/PavelVanecek/factorio/raw/main/accumulators.txt
 
